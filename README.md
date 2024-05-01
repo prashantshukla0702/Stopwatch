@@ -9,3 +9,6 @@ Stopwatch using vanilla JavaScript.
 <h2>Funtionality</h2>
 <p>This is a basic countdown app which contain three units to display that is minute, second and millisecond. User can start and stop the countdown by clicking on 
  the  respective buttons also user can reset the counter to start it again from the zero. </p>
+
+ <h3>Hosted URL</h3>
+<a href="https://prashantshukla0702.github.io/Stopwatch/">https://prashantshukla0702.github.io/Stopwatch/</a>
